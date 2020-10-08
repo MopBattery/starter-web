@@ -1,6 +1,7 @@
 # Starter Web Project for joe
 blah blah blah
 quick fix for immediate use in production ***
+a stash example
 
 ## Intro. bit here
 intro intro intro 
