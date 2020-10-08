@@ -8,6 +8,14 @@ intro intro intro intro intro intro intro intro intro
 intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro 
 
 ## Purpose
+purpose 
+purpose 
+purpose 
+purpose 
+purpose 
+purpose 
+purpose 
+purpose 
 
 ## How to contribute
 
