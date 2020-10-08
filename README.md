@@ -18,6 +18,7 @@ purpose
 purpose 
 
 ## How to contribute
+apple banana pear apricot
 
 ## Deployment
 d fa sdf sf asdf asdf asdf asdf asdfasdf as#dfasdfasdfasdf
