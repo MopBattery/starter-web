@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> tony mac   pizza@oven.com <twitter>
 
 # THANKS
 
